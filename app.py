@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# author: Jorge Gomes for VOST Portugal
+# author: Jorge Gomes 
 
 
 import random
